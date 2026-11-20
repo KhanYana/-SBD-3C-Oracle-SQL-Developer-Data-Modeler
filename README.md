@@ -15,4 +15,4 @@ Repository ini berisi hasil praktikum **Oracle Academy – Database Foundations 
 
 ## Isi Repository
 - `academic_db.sql` — Skrip DDL lengkap pembuatan tabel *Academic Database*.
-- `Laporan_Praktikum_DB_Foundations_Ch1-4_FINAL.docx` — Laporan praktikum lengkap beserta dokumentasi *screenshot* Chapter 1–4.
+- `Praktikum DB Foundations Ch1-4.pdf` — Laporan praktikum lengkap beserta dokumentasi *screenshot* Chapter 1–4.
